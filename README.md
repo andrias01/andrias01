@@ -4,11 +4,8 @@
 <a href="https://github.com/andrias01" target="blank">
   <img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="https://linkedin.com/in/andres-velez" target="blank">
-  <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:andresjobpk@gmail.com" target="blank">
-  <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<a href="https://platzi.com/p/Andrias01" target="blank">
+  <img align="center" src="https://img.shields.io/badge/Platzi-98CA3F?style=for-the-badge&logo=platzi&logoColor=white" />
 </a>
 </p>
 
@@ -25,15 +22,13 @@
 🚀 Experiencia construyendo soluciones reales:
 - Chatbot productivo con integración de IA
 - APIs REST escalables
-- Sistemas con alta disponibilidad en la nube (AWS)
+- Sistemas desplegados en la nube (AWS)
 
 📊 +7 años de experiencia en operaciones, liderazgo de equipos y gestión comercial  
-→ Esto me da una ventaja: entiendo el negocio, no solo el código
+→ Entiendo el negocio, no solo el código
 
 🧠 Actualmente aprendiendo:
-Kafka, Kubernetes y arquitectura avanzada de microservicios
-
-📫 Contacto: **andresjobpk@gmail.com**
+Kafka, Kubernetes y arquitectura de microservicios
 
 </p>
 
@@ -43,7 +38,7 @@ Kafka, Kubernetes y arquitectura avanzada de microservicios
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,aws,docker,postgres,mysql,js,ts,nodejs,python,git,github,linux,postman,intellij,vscode&perline=8" />
+    <img src="https://skillicons.dev/icons?i=java,spring,aws,docker,postgres,mysql,js,nodejs,python,git,github,linux,postman,intellij,vscode&perline=8" />
   </a>
 </p>
 
@@ -54,20 +49,18 @@ Kafka, Kubernetes y arquitectura avanzada de microservicios
 <ul>
 <li>
 <b>Chatbot Inteligente para Restaurante</b><br>
-Backend con Node.js + integración con IA + Google Sheets<br>
+Backend con Node.js + IA + Google Sheets<br>
 ✔ Automatización de atención al cliente<br>
-✔ 0 tiempo de inactividad en actualizaciones<br>
 ✔ +100 consultas mensuales reales
 </li>
 
 <br>
 
 <li>
-<b>Sistema Backend con Java (Proyecto académico)</b><br>
+<b>Sistema Backend en Java (Proyecto académico)</b><br>
 ✔ Arquitectura limpia (SOLID + Clean Code)<br>
-✔ Base de datos relacional normalizada (MySQL)<br>
-✔ Pruebas con JUnit y Mockito<br>
-✔ Trabajo en equipo con Git
+✔ Base de datos MySQL normalizada<br>
+✔ Pruebas con JUnit y Mockito
 </li>
 
 </ul>
@@ -81,4 +74,7 @@ Backend con Node.js + integración con IA + Google Sheets<br>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=andrias01&theme=dark&hide_border=false" />
 
 <br><br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrias01&layout=compact&theme=dark&langs_count=6" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrias01&layout=compact&theme=dark&hide=html,css" />
+
+</p>
