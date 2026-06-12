@@ -10,21 +10,29 @@
 <a href="https://github.com/andrias01" target="blank">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="https://linkedin.com/in/andres-velez" target="blank">
+<a href="https://www.linkedin.com/in/andr%C3%A9s-felipe-v%C3%A9lez-alcaraz-264519292/" target="blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://platzi.com/p/Andrias01" target="blank">
   <img src="https://img.shields.io/badge/Platzi-98CA3F?style=for-the-badge&logo=platzi&logoColor=white" />
 </a>
-<a href="mailto:andresjobpk@gmail.com" target="blank">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=andresjobpk@gmail.com" target="blank">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
+
+<br><br>
+
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=1F4E79&center=true&vCenter=true&width=600&height=60&lines=Hola!+Soy+Andres+Velez+%F0%9F%91%8B;Desarrollador+Backend+%7C+Java+%26+Spring+Boot;Analista+de+Datos+%26+Automatizacion+de+Procesos;Estudiante+de+Ingenieria+de+Sistemas;Construyendo+soluciones+con+impacto+real;Siempre+aprendiendo+algo+nuevo..."></a>
 
 </div>
 
 <br>
 
 ## 🚀 Sobre mí
+
+<table>
+<tr>
+<td valign="top" width="60%">
 
 - 🎓 Estudiante de **Ingeniería de Sistemas** (7° semestre) en la Universidad Católica de Oriente
 - 💻 **Desarrollador Backend** enfocado en Java, Spring Boot, Python y arquitectura de microservicios
@@ -35,6 +43,15 @@
 - 📊 **+7 años de experiencia** en operaciones, liderazgo de equipos y gestión comercial → entiendo el negocio, no solo el código
 - 🧠 Actualmente aprendiendo: **Kafka, Kubernetes y Power BI**
 - 📍 Medellín / Oriente Antioqueño, Colombia — disponible para trabajo remoto o presencial
+
+</td>
+<td valign="top" width="40%" align="center">
+
+<img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+
+</td>
+</tr>
+</table>
 
 <br>
 
